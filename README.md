@@ -25,3 +25,7 @@ layout5.html
 layout6.html
 --------------
 <img src="/image/layout6.png" width=50%>
+
+layout7.html
+--------------
+<img src="/image/layout7.png" width=50%>

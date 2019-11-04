@@ -1,6 +1,6 @@
 # web_practice
 웹 표준 사이트 만들기
-
+https://kum4950.github.io/practice_1/
 
 layout1.html
 --------------

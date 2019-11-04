@@ -4,5 +4,4 @@
 
 layout1.html
 --------------
-
-![image](https://user-images.githubusercontent.com/40579933/68110313-0b068300-ff30-11e9-879a-1f7a74e55f99.png){: width="300" height="300"}
+<img scr="https://user-images.githubusercontent.com/40579933/68110893-32118480-ff31-11e9-9b69-027ff7b112b4.png" width="30%">

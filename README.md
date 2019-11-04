@@ -36,6 +36,7 @@ layout7.html
 웹 사이트 접근성을 높이기 위해 만든다.
 
 tab 키를 이용해서 해당하는 메뉴로 이동가능
+
 <img src="/image/skip_menu_0.png" width=50%>
 <img src="/image/skip_menu_1.png" width=50%>
 <img src="/image/skip_menu_2.png" width=50%>

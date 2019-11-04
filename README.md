@@ -3,35 +3,22 @@
 
 https://kum4950.github.io/practice_1/
 
-layout1.html
---------------
-<img src="/image/layout1.png" width=50%>
+# layout
+----------------
 
-layout2.html
---------------
-<img src="/image/layout2.png" width=50%>
+**layout1.html**| **layout2.html**
+:-------------:|:-----------:
+<img src="/image/layout1.png" > | <img src="/image/layout2.png" >
+**layout3.html**| **layout4.html**
+<img src="/image/layout3.png" > | <img src="/image/layout4.png" >
+**layout5.html**| **layout6.html**
+<img src="/image/layout5.png" > | <img src="/image/layout6.png" >
+**layout7.html**|
+<img src="/image/layout7.png" > | 
 
-layout3.html
---------------
-<img src="/image/layout3.png" width=50%>
 
-layout4.html
---------------
-<img src="/image/layout4.png" width=50%>
 
-layout5.html
---------------
-<img src="/image/layout5.png" width=50%>
-
-layout6.html
---------------
-<img src="/image/layout6.png" width=50%>
-
-layout7.html
---------------
-<img src="/image/layout7.png" width=50%>
-
-#스킵 메뉴
+# 스킵 메뉴
 -------------
 웹 사이트 접근성을 높이기 위해 만든다.
 

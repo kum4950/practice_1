@@ -4,8 +4,8 @@
 
 layout1.html
 --------------
-![layout1](./image/layout1.png){: width="200"}
+<img src="/image/layout1" width="200">
 
 layout2.html
 --------------
-![layout2](./image/layout2.png){: width="200"}
+<img src="/image/layout2" width="200">

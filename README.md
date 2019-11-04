@@ -4,4 +4,4 @@
 
 layout1.html
 --------------
-![layout1](./image/layout1.png){: width="200" height="100"}
+![layout1](./image/layout1.png){: width=200 height=100}

@@ -4,6 +4,7 @@
 
 layout1.html
 --------------
+<<<<<<< HEAD
 ![layout1](./image/layout1.png){: width="200"}
 
 layout2.html

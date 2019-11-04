@@ -2,6 +2,7 @@
 웹 표준 사이트 만들기
 
 https://kum4950.github.io/practice_1/
+<br><br>
 
 # layout
 ----------------
@@ -14,9 +15,9 @@ https://kum4950.github.io/practice_1/
 **layout5.html**| **layout6.html**
 <img src="/image/layout5.png" > | <img src="/image/layout6.png" >
 **layout7.html**|
-<img src="/image/layout7.png" > | 
-
-
+<img src="/image/layout7.png" > |  
+-------------------------------
+<br><br>
 
 # 스킵 메뉴
 -------------

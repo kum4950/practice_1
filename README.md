@@ -13,3 +13,7 @@ layout2.html
 layout3.html
 --------------
 <img src="/image/layout3.png" width=50%>
+
+layout4.html
+--------------
+<img src="/image/layout4.png" width=50%>

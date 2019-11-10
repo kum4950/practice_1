@@ -29,3 +29,7 @@ tab 키를 이용해서 해당하는 메뉴로 이동가능
 <img src="/image/skip_menu_1.png" width=50%>
 <img src="/image/skip_menu_2.png" width=50%>
 <img src="/image/skip_menu_3.png" width=50%>
+
+#사이트 레이아웃 sample_1.HTML
+-------------
+https://kum4950.github.io/practice_1/sample_1.html

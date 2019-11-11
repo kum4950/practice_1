@@ -38,5 +38,7 @@ tab 키를 이용해서 해당하는 메뉴로 이동가능
 <li><a href="https://kum4950.github.io/practice_1/sample_3.html">03. 게시판2 sample_3.html</a></li>
 <li><a href="https://kum4950.github.io/practice_1/sample_4.html">04. 게시판3 sample_4.html</a></li>
 <li><a href="https://kum4950.github.io/practice_1/sample_5.html">05. 마우스오버효과1 sample_5.html</a></li>
+<li><a href="https://kum4950.github.io/practice_1/sample_6.html">06. 마우스오버효과2 sample_6.html</a></li>
+
 
 </ul>

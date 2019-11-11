@@ -35,4 +35,5 @@ tab 키를 이용해서 해당하는 메뉴로 이동가능
 <ul>
 <li><a href="https://kum4950.github.io/practice_1/sample_1.html">01. 사이트 레이아웃 sample_1.html</a></li>
 <li><a href="https://kum4950.github.io/practice_1/sample_2.html">02. 게시판1 sample_2.html</a></li>
+<li><a href="https://kum4950.github.io/practice_1/sample_3.html">02. 게시판2 sample_3.html</a></li>
 </ul>
